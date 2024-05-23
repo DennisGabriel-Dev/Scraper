@@ -1,6 +1,7 @@
 # Scraper
 ## For you run this project, follow this:
 <br>
+This project was made first at ruby 3.2.2 version :) maybe something breaks, case you use older version it.
 In your terminal type: <br>
 <pre>
   gem install nokogiri
