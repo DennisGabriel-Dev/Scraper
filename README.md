@@ -6,7 +6,8 @@ This project was made first at ruby 3.2.2 version :) maybe something breaks, cas
 In your terminal type: <br>
 <pre>
   gem install nokogiri
-  gem install httparty 
+  gem install httparty
+  gem install parallel
 </pre>
 <br>
 note: csv is a Ruby's default gem, so you don't need install this.<br>
